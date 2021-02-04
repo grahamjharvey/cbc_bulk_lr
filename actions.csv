@@ -1,0 +1,4 @@
+DeviceId,DeviceName,Command,Resource
+35765230,XG5WINDC001,DeleteFile,c:\\windows\\carbonblack\\Investigation.txt
+35673649,desktop-1hq14ia,DeleteFile,C:\\Users\\cbadmin\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Test.txt
+35673649,desktop-1hq14ia,DeleteFile,C:\\Users\\cbadmin\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\iuuegz.lnk
